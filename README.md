@@ -1,5 +1,5 @@
 # Task-5-EDA-IPL
-## Eploratory Data Analysis
+## Eploratory Data Analysis IPL Dataset
 
 <big>
   I am happy to share that I have successfully completed the #task5
